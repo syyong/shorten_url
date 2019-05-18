@@ -1,0 +1,5 @@
+[MASTER]
+ignore=migrations
+
+disable=missing-docstring
+
